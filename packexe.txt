@@ -1,0 +1,1 @@
+pyinstaller -F -w --version-file 练习计算版本信息文件.py 练习计算0.0.4.py
